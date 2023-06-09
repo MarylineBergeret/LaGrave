@@ -1,0 +1,20 @@
+{
+  "@@locale": "ar",
+  "connexion": "تسجيل الدخول",
+  "titre": "التجربة",
+  "titre1": "جبال عالية",
+  "meije": "لا ميج",
+  "yeux": "عيون مفتوحة",
+  "meteo": "الطقس",
+  "ouverture": "فتح",
+  "pass": "تذكرة",
+  "domaine": "المجال",
+  "acces": "متاح",
+  "decouvrez": "اكتشف",
+  "carte": "عرض الخريطة",
+  "nos": "لدينا",
+  "parcours": "مسارات",
+  "decouvrir": "لاكتشاف",
+  "webcams": "كاميرات الويب",
+  "chargement" : "جار التحميل"
+}
